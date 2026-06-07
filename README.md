@@ -32,13 +32,15 @@
 <tr>
 <td width="50%">
 
-🎓 Second-year Information Security Student
+🎓 Second-year Information Security Student at HUIT
 
 🔐 Interested in Cybersecurity & System Security
 
 🐧 Linux Enthusiast
 
 🌐 Exploring Networking & Security Tools
+
+🚀 Passionate about Learning New Technologies
 
 </td>
 
@@ -78,16 +80,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql"/>
-
-</div>
-
----
-
 ## 💻 Terminal
 
 ```bash
@@ -109,6 +101,27 @@ Python
 
 Cybersecurity Engineer
 ```
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project                  | Technology | Description                    |
+| ------------------------ | ---------- | ------------------------------ |
+| 🔒 Security Lab          | Linux      | Security practice environment  |
+| 🐍 Python Security Tools | Python     | Security automation scripts    |
+| 🌐 Network Analysis      | Networking | Traffic monitoring & analysis  |
+| 🛡️ Security Notes       | Linux      | Learning notes and experiments |
 
 ---
 
@@ -144,13 +157,35 @@ Cybersecurity Engineer
 
 ---
 
-## 🏆 Achievements
+## 🏆 Milestones
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MinhChien1610&theme=algolia&no-frame=true&row=1&column=6"/>
+🥇 First Pull Request on GitHub
+
+🔐 Started Cybersecurity Learning Journey
+
+🐧 Learning Linux Administration
+
+🌐 Exploring Networking & Security
+
+🚀 Future Cybersecurity Engineer
 
 </div>
+
+---
+
+## 📚 Current Focus
+
+```text
+✓ Linux Fundamentals
+✓ Python Programming
+✓ Network Security
+✓ System Security
+□ Ethical Hacking
+□ Penetration Testing
+□ Security Certifications
+```
 
 ---
 
