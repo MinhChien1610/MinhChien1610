@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Minh%20Chiến&fontSize=55&fontColor=00ff99&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:21262d&text=Minh%20Chiến&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=Information+Security+Student;Cybersecurity+Enthusiast;Linux+Learner;Future+Cybersecurity+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Information+Security+Student;Cybersecurity+Enthusiast;Linux+Learner;Future+Security+Engineer" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=MinhChien1610&label=Profile+Views&color=00ff99&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=MinhChien1610&label=Profile+Views&color=58a6ff&style=for-the-badge"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://facebook.com/YOUR_FACEBOO](https://www.facebook.com/chinnbeoo?mibextid=wwXIfr&rdid=HTU4dhJ7i1uYx7kF&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CcY8fgcsp%2F%3Fmibextid%3DwwXIfr)">
+<a href="https://www.facebook.com/chinnbeoo">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -26,13 +26,13 @@
 
 ---
 
-# 🛡️ About Me
+## 🛡️ About Me
 
 <table>
 <tr>
 <td width="50%">
 
-🎓 Second-year Information Security Student at HUIT
+🎓 Second-year Information Security Student
 
 🔐 Interested in Cybersecurity & System Security
 
@@ -40,21 +40,21 @@
 
 🌐 Exploring Networking & Security Tools
 
-🚀 Passionate about Learning New Technologies
-
 </td>
 
 <td width="50%">
 
 🎯 Goal: Cybersecurity Engineer
 
-📚 Currently Learning:
+📚 Currently Learning
 
-- Linux Administration
-- Ethical Hacking
-- Network Security
-- Python for Security
-- System Security
+• Linux Administration
+
+• Network Security
+
+• Ethical Hacking
+
+• Python for Security
 
 </td>
 </tr>
@@ -62,44 +62,57 @@
 
 ---
 
-# ⚡ Quick Facts
+## 🏅 Learning Journey
 
 <div align="center">
 
-| 🎓 University | 🛡️ Major |
-|--------------|----------|
-| HUIT | Information Security |
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-| 💻 Focus | 🎯 Career Goal |
-|-----------|--------------|
-| Cybersecurity | Security Engineer |
+![Networking](https://img.shields.io/badge/Networking-Exploring-blue?style=for-the-badge)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Interested-success?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-Developing-yellow?style=for-the-badge)
 
 </div>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql"/>
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 💻 Terminal
 
-| Project | Technology | Description |
-|----------|----------|----------|
-| 🔒 Security Lab | Linux | Security practice environment |
-| 🐍 Python Security Tools | Python | Security automation scripts |
-| 🌐 Network Analysis | Networking | Traffic monitoring & analysis |
-| 🛡️ Security Notes | Linux | Learning notes and experiments |
+```bash
+> whoami
+
+Minh Chien
+
+> major
+
+Information Security
+
+> currently_learning
+
+Linux
+Network Security
+Python
+
+> career_goal
+
+Cybersecurity Engineer
+```
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -111,7 +124,7 @@
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -121,7 +134,7 @@
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -131,7 +144,7 @@
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
 <div align="center">
 
@@ -141,30 +154,12 @@
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-![Snake animation](https://github.com/MinhChien1610/MinhChien1610/blob/output/github-contribution-grid-snake.svg)
+### 💡 "Security is not a product, it's a process."
+
+⭐ Learning • Practicing • Securing ⭐
 
 </div>
 
----
-
-# 💡 Quote
-
-<div align="center">
-
-> "Security is not a product, it's a process."
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Learning • Practicing • Securing ⭐
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:161b22,100:21262d"/>
