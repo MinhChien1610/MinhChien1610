@@ -1,64 +1,53 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:21262d&text=Minh%20Chi%E1%BA%BFn&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Information%20Security%20Student&descSize=17&descAlignY=58&descColor=c9d1d9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d1117&text=MINH%20CHI%E1%BA%BEN&fontSize=48&fontColor=58A6FF&fontAlignY=40&desc=INFORMATION%20SECURITY%20%7C%20SYSTEM%20SECURITY&descSize=15&descAlignY=65&descColor=C9D1D9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Third-year+Information+Security+Student;Cybersecurity+Enthusiast;Linux+%26+Networking+Learner;Future+Security+Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Third-year+Information+Security+Student;System+Security+Enthusiast;Exploring+Linux+%26+Operating+System+Security;Learning+to+Build+and+Secure+Systems" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=MinhChien1610&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"/>
-
-<br/><br/>
-
 <a href="https://github.com/MinhChien1610">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:lethiminhchien07L@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/chinnbeoo">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=MinhChien1610&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-### 🎓 Introduction
+### Introduction
 
-- **Name:** Minh Chiến
-- **University:** HUIT
-- **Major:** Information Security
-- **Year:** Third-year student
-- **Location:** Ho Chi Minh City, Vietnam
+I am a third-year **Information Security student** at Ho Chi Minh City University of Industry and Trade (HUIT), specializing in **System Security**.
 
-### 🎯 Career Goal
+My primary interest is understanding how operating systems and computer systems work, identifying potential security weaknesses, and exploring techniques to protect systems against security threats.
 
-Aspiring Cybersecurity Engineer with an interest in system security, network security and ethical hacking.
+I am continuously developing my technical knowledge through academic coursework, hands-on laboratories, and personal projects.
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-### 🔍 Interests
+### Profile
 
-- 🔐 Cybersecurity
-- 🐧 Linux Administration
-- 🌐 Network Security
-- 🛡️ System Security
-- 🐍 Python Programming
-
-### 🌱 Currently Learning
-
-- Linux Fundamentals
-- Networking
-- Ethical Hacking
-- Security Tools
+| | |
+|:---|:---|
+| **University** | HUIT |
+| **Major** | Information Security |
+| **Specialization** | System Security |
+| **Academic Year** | Third Year |
+| **Career Goal** | System Security Engineer |
+| **Location** | Vietnam |
 
 </td>
 </tr>
@@ -66,74 +55,102 @@ Aspiring Cybersecurity Engineer with an interest in system security, network sec
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🎯 Professional Interests
 
-### 💻 Programming Languages
+My learning and career direction focuses on the following areas:
 
-<div>
+| Area | Focus |
+|:---|:---|
+| **System Security** | Operating System Security, Access Control, System Hardening |
+| **Linux Security** | Linux Administration, Permissions, System Configuration |
+| **Vulnerability Assessment** | Vulnerability Identification, Analysis and Testing |
+| **Cryptography** | Encryption Algorithms, Key Exchange and Cryptographic Protocols |
+| **Network Security** | Network Monitoring, Firewalls and Intrusion Detection |
+
+---
+
+## 📚 Academic Background
+
+### Completed Coursework
+
+| Subject | Knowledge Acquired |
+|:---|:---|
+| Information Theory and Coding | Information theory and coding fundamentals |
+
+### Currently Studying
+
+| Subject | Learning Focus |
+|:---|:---|
+| Cryptography | Encryption algorithms, cryptographic protocols and key exchange |
+| Vulnerability Analysis and Testing | Vulnerability identification, analysis and security testing |
+| Computer Network Security | Network attacks, security mechanisms, firewalls and IDS/IPS |
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+### Programming Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 
-### 🖥️ Operating Systems & Tools
+### Operating Systems
 
-<div>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+
+### Security & Networking
+
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
+
+### Development & Virtualization
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-</div>
-
-### 🔐 Security & Networking
-
-<div>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking-58A6FF?style=flat-square&logo=cisco&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
 
 ---
 
-## 📚 Learning Roadmap
-
-| Area | Topics | Status |
-|:---|:---|:---:|
-| 🐧 Linux | Linux Commands & Administration | 🟢 Learning |
-| 🐍 Python | Programming & Automation | 🟢 Learning |
-| 🌐 Networking | TCP/IP, DNS, Routing | 🟢 Learning |
-| 🔐 Network Security | Nmap, Wireshark, Firewall | 🟢 Learning |
-| 🛡️ Ethical Hacking | Reconnaissance & Enumeration | 🟡 Exploring |
-| 💻 Penetration Testing | Vulnerability Assessment | ⚪ Planned |
-| 🏅 Certifications | Security Certifications | ⚪ Planned |
-
----
-
-## 🚀 Featured Learning Projects
+## 🔬 Projects & Practical Labs
 
 <table>
 <tr>
-<th width="35%">Project</th>
-<th width="65%">Description</th>
+<th width="30%">Project</th>
+<th width="45%">Description</th>
+<th width="25%">Technologies</th>
 </tr>
 <tr>
-<td>🔍 <b>Network Scanning</b></td>
-<td>Practicing network discovery and port scanning using Nmap.</td>
+<td><b>Diffie-Hellman Simulation</b></td>
+<td>Implementing key exchange and demonstrating Man-in-the-Middle attacks in an unauthenticated communication scenario.</td>
+<td>Cryptography, Python</td>
 </tr>
 <tr>
-<td>🐧 <b>Linux Security Lab</b></td>
-<td>Exploring Linux administration, permissions and system security.</td>
+<td><b>pfSense Firewall Lab</b></td>
+<td>Installing, configuring and exploring firewall rules to control network traffic.</td>
+<td>pfSense, Networking</td>
 </tr>
 <tr>
-<td>🐍 <b>Python Security Tools</b></td>
-<td>Learning to develop simple Python scripts for security automation.</td>
+<td><b>Linux Security Practice</b></td>
+<td>Practicing Linux commands, user permissions, package management and system administration.</td>
+<td>Ubuntu, Linux</td>
 </tr>
 <tr>
-<td>🌐 <b>Network Analysis</b></td>
-<td>Analyzing network traffic and protocols using Wireshark.</td>
+<td><b>Network Scanning Lab</b></td>
+<td>Exploring network discovery, port scanning and service enumeration.</td>
+<td>Kali Linux, Nmap</td>
+</tr>
+<tr>
+<td><b>Network Security Lab</b></td>
+<td>Learning network traffic analysis and basic security monitoring.</td>
+<td>Wireshark, Networking</td>
 </tr>
 </table>
 
@@ -143,13 +160,16 @@ Aspiring Cybersecurity Engineer with an interest in system security, network sec
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MinhChien1610&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhChien1610&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<a href="https://github.com/MinhChien1610">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MinhChien1610&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+</a>
+<a href="https://github.com/MinhChien1610">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhChien1610&layout=compact&theme=github_dark&hide_border=true&langs_count=6"/>
+</a>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=MinhChien1610&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=MinhChien1610&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -159,51 +179,40 @@ Aspiring Cybersecurity Engineer with an interest in system security, network sec
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhChien1610&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhChien1610&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 My Milestones
+## 🗺️ Learning Roadmap
 
-<div align="center">
-
-| 🏅 Achievement | Description |
-|:---|:---|
-| 🚀 GitHub Journey | Started building a developer profile |
-| 🔐 Cybersecurity | Started exploring Information Security |
-| 🐧 Linux | Practicing Linux administration |
-| 🌐 Networking | Learning network protocols and security |
-| 🎯 Career Goal | Working towards becoming a Security Engineer |
-
-</div>
+| Learning Path | Status |
+|:---|:---:|
+| Information Theory and Coding | Completed |
+| Linux Fundamentals | Learning |
+| Cryptography | In Progress |
+| Vulnerability Analysis and Testing | In Progress |
+| Computer Network Security | In Progress |
+| Operating System Security | Exploring |
+| System Hardening | Exploring |
+| Penetration Testing | Future Goal |
 
 ---
 
-## 📌 Current Focus
+## 🎓 Career Objective
 
-```text
-✓ Linux Fundamentals
-✓ Python Programming
-✓ Network Security
-✓ System Security
-□ Ethical Hacking
-□ Penetration Testing
-□ Security Certifications
-```
+My long-term goal is to become a **System Security Engineer**, focusing on securing operating systems and computing environments.
+
+I aim to strengthen my understanding of system architecture, access control, vulnerability assessment, and security mechanisms while gaining practical experience through hands-on projects and security laboratories.
 
 ---
 
 <div align="center">
 
-### 💡 Quote of the Day
+### "Understand the system. Identify the weakness. Strengthen the security."
 
-*"Security is not a product, it's a process."*
-
-<br/>
-
-**Learning • Practicing • Exploring • Securing**
+**LEARN · ANALYZE · PRACTICE · SECURE**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:161b22,100:21262d" width="100%"/>
 
