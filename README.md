@@ -1,23 +1,21 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:21262d&text=Minh%20Chiến&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:21262d&text=Minh%20Chi%E1%BA%BFn&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Information%20Security%20Student&descSize=17&descAlignY=58&descColor=c9d1d9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Information+Security+Student;Cybersecurity+Enthusiast;Linux+Learner;Future+Security+Engineer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Third-year+Information+Security+Student;Cybersecurity+Enthusiast;Linux+%26+Networking+Learner;Future+Security+Engineer"/>
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=MinhChien1610&label=Profile+Views&color=58a6ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MinhChien1610&label=PROFILE+VIEWS&color=58A6FF&style=flat-square"/>
 
-<br><br>
+<br/><br/>
 
 <a href="https://github.com/MinhChien1610">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:lethiminhchien07L@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://www.facebook.com/chinnbeoo">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
@@ -26,37 +24,41 @@
 
 ---
 
-## 🛡️ About Me
+## 👩‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-🎓 Second-year Information Security Student at HUIT
+### 🎓 Introduction
 
-🔐 Interested in Cybersecurity & System Security
+- **Name:** Minh Chiến
+- **University:** HUIT
+- **Major:** Information Security
+- **Year:** Third-year student
+- **Location:** Ho Chi Minh City, Vietnam
 
-🐧 Linux Enthusiast
+### 🎯 Career Goal
 
-🌐 Exploring Networking & Security Tools
-
-🚀 Passionate about Learning New Technologies
+Aspiring Cybersecurity Engineer with an interest in system security, network security and ethical hacking.
 
 </td>
+<td width="45%" valign="top">
 
-<td width="50%">
+### 🔍 Interests
 
-🎯 Goal: Cybersecurity Engineer
+- 🔐 Cybersecurity
+- 🐧 Linux Administration
+- 🌐 Network Security
+- 🛡️ System Security
+- 🐍 Python Programming
 
-📚 Currently Learning
+### 🌱 Currently Learning
 
-• Linux Administration
-
-• Network Security
-
-• Ethical Hacking
-
-• Python for Security
+- Linux Fundamentals
+- Networking
+- Ethical Hacking
+- Security Tools
 
 </td>
 </tr>
@@ -64,64 +66,76 @@
 
 ---
 
-## 🏅 Learning Journey
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
+### 💻 Programming Languages
 
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+<div>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</div>
 
-![Networking](https://img.shields.io/badge/Networking-Exploring-blue?style=for-the-badge)
+### 🖥️ Operating Systems & Tools
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Interested-success?style=for-the-badge)
+<div>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+</div>
 
-![Python](https://img.shields.io/badge/Python-Developing-yellow?style=for-the-badge)
+### 🔐 Security & Networking
 
+<div>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-58A6FF?style=flat-square&logo=cisco&logoColor=white"/>
 </div>
 
 ---
 
-## 💻 Terminal
+## 📚 Learning Roadmap
 
-```bash
-> whoami
-
-Minh Chien
-
-> major
-
-Information Security
-
-> currently_learning
-
-Linux
-Network Security
-Python
-
-> career_goal
-
-Cybersecurity Engineer
-```
+| Area | Topics | Status |
+|:---|:---|:---:|
+| 🐧 Linux | Linux Commands & Administration | 🟢 Learning |
+| 🐍 Python | Programming & Automation | 🟢 Learning |
+| 🌐 Networking | TCP/IP, DNS, Routing | 🟢 Learning |
+| 🔐 Network Security | Nmap, Wireshark, Firewall | 🟢 Learning |
+| 🛡️ Ethical Hacking | Reconnaissance & Enumeration | 🟡 Exploring |
+| 💻 Penetration Testing | Vulnerability Assessment | ⚪ Planned |
+| 🏅 Certifications | Security Certifications | ⚪ Planned |
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Learning Projects
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode,mysql"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-| Project                  | Technology | Description                    |
-| ------------------------ | ---------- | ------------------------------ |
-| 🔒 Security Lab          | Linux      | Security practice environment  |
-| 🐍 Python Security Tools | Python     | Security automation scripts    |
-| 🌐 Network Analysis      | Networking | Traffic monitoring & analysis  |
-| 🛡️ Security Notes       | Linux      | Learning notes and experiments |
+<table>
+<tr>
+<th width="35%">Project</th>
+<th width="65%">Description</th>
+</tr>
+<tr>
+<td>🔍 <b>Network Scanning</b></td>
+<td>Practicing network discovery and port scanning using Nmap.</td>
+</tr>
+<tr>
+<td>🐧 <b>Linux Security Lab</b></td>
+<td>Exploring Linux administration, permissions and system security.</td>
+</tr>
+<tr>
+<td>🐍 <b>Python Security Tools</b></td>
+<td>Learning to develop simple Python scripts for security automation.</td>
+</tr>
+<tr>
+<td>🌐 <b>Network Analysis</b></td>
+<td>Analyzing network traffic and protocols using Wireshark.</td>
+</tr>
+</table>
 
 ---
 
@@ -129,53 +143,45 @@ Cybersecurity Engineer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MinhChien1610&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MinhChien1610&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MinhChien1610&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhChien1610&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=MinhChien1610&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MinhChien1610&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhChien1610&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🏆 My Milestones
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MinhChien1610&theme=tokyo-night&hide_border=true"/>
+| 🏅 Achievement | Description |
+|:---|:---|
+| 🚀 GitHub Journey | Started building a developer profile |
+| 🔐 Cybersecurity | Started exploring Information Security |
+| 🐧 Linux | Practicing Linux administration |
+| 🌐 Networking | Learning network protocols and security |
+| 🎯 Career Goal | Working towards becoming a Security Engineer |
 
 </div>
 
 ---
 
-## 🏆 Milestones
-
-<div align="center">
-
-🥇 First Pull Request on GitHub
-
-🔐 Started Cybersecurity Learning Journey
-
-🐧 Learning Linux Administration
-
-🌐 Exploring Networking & Security
-
-🚀 Future Cybersecurity Engineer
-
-</div>
-
----
-
-## 📚 Current Focus
+## 📌 Current Focus
 
 ```text
 ✓ Linux Fundamentals
@@ -191,10 +197,14 @@ Cybersecurity Engineer
 
 <div align="center">
 
-### 💡 "Security is not a product, it's a process."
+### 💡 Quote of the Day
 
-⭐ Learning • Practicing • Securing ⭐
+*"Security is not a product, it's a process."*
+
+<br/>
+
+**Learning • Practicing • Exploring • Securing**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:161b22,100:21262d" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0d1117,50:161b22,100:21262d"/>
