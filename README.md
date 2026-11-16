@@ -246,11 +246,11 @@ Exploring network discovery, port scanning and service enumeration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhChien1610&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="280"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhChien1610&layout=pie&theme=tokyonight&hide_border=true&langs_count=8" width="420"/>
 
 <br/>
 
-<sub>Languages distribution based on my public GitHub repositories.</sub>
+<sub>Programming languages distribution based on my public GitHub repositories.</sub>
 
 </div>
 
