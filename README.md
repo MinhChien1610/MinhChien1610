@@ -22,62 +22,28 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
-
-### 👩🏻‍💻 Who Am I?
-
-<table>
-<tr>
-<td>🎓</td>
-<td>Third-year student at <b>HUIT</b></td>
+<th width="50%" align="left">👩🏻‍💻 Who Am I?</th>
+<th width="50%" align="left">🎯 My Interests</th>
 </tr>
 <tr>
-<td>🔐</td>
-<td>Major: Information Security</td>
+<td>🎓 Third-year student at <b>HUIT</b></td>
+<td>🐧 Linux & Operating System Security</td>
 </tr>
 <tr>
-<td>🛡️</td>
-<td>Specialization: <b>System Security</b></td>
+<td>🔐 Major: Information Security</td>
+<td>🔒 System Hardening</td>
 </tr>
 <tr>
-<td>📍</td>
-<td>Ho Chi Minh City, Vietnam</td>
+<td>🛡️ Specialization: <b>System Security</b></td>
+<td>🔍 Vulnerability Assessment</td>
 </tr>
 <tr>
-<td>💡</td>
-<td>Passionate about understanding systems, discovering vulnerabilities and improving system security.</td>
-</tr>
-</table>
-
-</td>
-<td width="45%" valign="top">
-
-### 🎯 My Interests
-
-<table>
-<tr>
-<td>🐧</td>
-<td>Linux & Operating System Security</td>
+<td>📍 Ho Chi Minh City, Vietnam</td>
+<td>🔑 Cryptography</td>
 </tr>
 <tr>
-<td>🔒</td>
-<td>System Hardening</td>
-</tr>
-<tr>
-<td>🔍</td>
-<td>Vulnerability Assessment</td>
-</tr>
-<tr>
-<td>🔑</td>
-<td>Cryptography</td>
-</tr>
-<tr>
-<td>🌐</td>
-<td>Network Security</td>
-</tr>
-</table>
-
-</td>
+<td>💡 Passionate about understanding systems, discovering vulnerabilities and improving system security.</td>
+<td>🌐 Network Security</td>
 </tr>
 </table>
 
@@ -111,18 +77,6 @@
 </tr>
 </tbody>
 </table>
-
----
-
-## 📈 Cybersecurity Learning Map
-
-<div align="center">
-
-<img src="https://quickchart.io/chart?width=600&height=340&backgroundColor=transparent&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Cryptography%22%2C%22Vulnerability%20Analysis%22%2C%22Network%20Security%22%2C%22Linux%20%26%20System%20Hardening%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B25%2C25%2C25%2C25%5D%2C%22backgroundColor%22%3A%5B%22%2358a6ff%22%2C%22%231f6feb%22%2C%22%2379c0ff%22%2C%22%233fb950%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2262%25%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23c9d1d9%22%2C%22padding%22%3A16%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Current%20Learning%20Areas%22%2C%22color%22%3A%22%23c9d1d9%22%7D%7D%7D%7D" width="90%" alt="Cybersecurity Learning Areas Donut Chart"/>
-
-<sub>Exploring different areas of Information Security and System Security.</sub>
-
-</div>
 
 ---
 
@@ -216,104 +170,93 @@ Exploring network discovery, port scanning and service enumeration.
 ## 🌱 Learning Roadmap
 
 <table>
+<thead>
 <tr>
-<td colspan="2">
-
-### 🛡️ System Security Journey
-
-<img src="https://img.shields.io/badge/IN%20PROGRESS-1f6feb?style=for-the-badge"/>
-
-</td>
+<th width="50%" align="left">📚 Currently Learning</th>
+<th width="50%" align="left">🚀 Exploring & Future Goals</th>
 </tr>
+</thead>
+<tbody>
 <tr>
-<td width="75%">
-
-**✅ Information Theory & Coding**
-
-<sub>Completed</sub>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/DONE-238636?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td>
+<td valign="top">
 
 **🔐 Cryptography**
 
 <sub>Encryption & Key Exchange</sub>
 
-</td>
-<td align="center">
-
 <img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
 
 </td>
-</tr>
-<tr>
-<td>
-
-**🔍 Vulnerability Analysis**
-
-<sub>Finding & Testing Vulnerabilities</sub>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td>
-
-**🌐 Computer Network Security**
-
-<sub>Network Protection & Monitoring</sub>
-
-</td>
-<td align="center">
-
-<img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td>
+<td valign="top">
 
 **🐧 Linux & System Hardening**
 
 <sub>System Administration & Protection</sub>
-
-</td>
-<td align="center">
 
 <img src="https://img.shields.io/badge/EXPLORING-6e7681?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
-<td>
+<td valign="top">
+
+**🔍 Vulnerability Analysis**
+
+<sub>Finding & Testing Vulnerabilities</sub>
+
+<img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
+
+</td>
+<td valign="top">
 
 **🛡️ Penetration Testing**
 
 <sub>Security Assessment & Practical Labs</sub>
 
-</td>
-<td align="center">
-
 <img src="https://img.shields.io/badge/FUTURE%20GOAL-6e7681?style=flat-square"/>
 
 </td>
 </tr>
+<tr>
+<td valign="top">
+
+**🌐 Computer Network Security**
+
+<sub>Network Protection & Monitoring</sub>
+
+<img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
+
+</td>
+<td valign="top">
+
+**🎓 Information Theory & Coding**
+
+<sub>Completed</sub>
+
+<img src="https://img.shields.io/badge/COMPLETED-238636?style=flat-square"/>
+
+</td>
+</tr>
+</tbody>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Programming Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhChien1610&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="280"/>
+
+<br/>
+
+<sub>Languages distribution based on my public GitHub repositories.</sub>
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
 
 <div align="center">
 
