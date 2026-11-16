@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:161b22,100:1f3a5f&text=Minh%20Chi%E1%BA%BFn&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=INFORMATION%20SECURITY%20%7C%20SYSTEM%20SECURITY&descSize=15&descAlignY=60&descColor=c9d1d9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Third-year+Information+Security+Student;System+Security+Enthusiast;Linux+%26+Operating+System+Security;Exploring+Cryptography+%26+Network+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Third-year+Information+Security+Student;System+Security+Enthusiast;Linux+%26+Operating+System+Security;Exploring+Cryptography+%26+Network+Security"/>
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🦋 About Me
+## 🌷 About Me
 
 <table>
 <tr>
@@ -59,22 +59,38 @@
 
 ## 🧠 What I'm Learning
 
-<box>
-
-| 📚 Subject | 📌 Status |
-|:---|:---:|
-| Information Theory & Coding | <badge color="success">Completed</badge> |
-| Cryptography | <badge color="info">Learning</badge> |
-| Vulnerability Analysis & Testing | <badge color="info">Learning</badge> |
-| Computer Network Security | <badge color="info">Learning</badge> |
-
-</box>
+<table>
+<thead>
+<tr>
+<th align="left">📚 Subject</th>
+<th align="center">📌 Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Information Theory & Coding</td>
+<td align="center"><img src="https://img.shields.io/badge/Completed-238636?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Cryptography</td>
+<td align="center"><img src="https://img.shields.io/badge/Learning-1f6feb?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Vulnerability Analysis & Testing</td>
+<td align="center"><img src="https://img.shields.io/badge/Learning-1f6feb?style=flat-square"/></td>
+</tr>
+<tr>
+<td>Computer Network Security</td>
+<td align="center"><img src="https://img.shields.io/badge/Learning-1f6feb?style=flat-square"/></td>
+</tr>
+</tbody>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-**💻 Programming Languages**
+### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -83,7 +99,7 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
 </p>
 
-**🐧 Operating Systems & Tools**
+### 🐧 Operating Systems & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -93,7 +109,7 @@
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white"/>
 </p>
 
-**🔐 Security & Networking**
+### 🔐 Security & Networking
 
 <p>
 <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=linux&logoColor=white"/>
@@ -101,7 +117,7 @@
 <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white"/>
 </p>
 
-**⚙️ Development Tools**
+### ⚙️ Development Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -161,63 +177,101 @@ Exploring network discovery, port scanning and service enumeration.
 
 ## 🌱 Learning Roadmap
 
-<box border radius="lg" padding={3} gap={3}>
-  <row align="center">
-    <title size="lg">🛡️ System Security Journey</title>
-    <spacer/>
-    <badge color="info">In Progress</badge>
-  </row>
-  <divider color="subtle"/>
-  <row align="center" gap={2}>
-    <icon name="check-circle-filled" color="success" size="lg"/>
-    <box flex="1" gap={0}>
-      **Information Theory & Coding**
-      <caption color="success">Completed</caption>
-    </box>
-    <badge color="success">Done</badge>
-  </row>
-  <row align="center" gap={2}>
-    <icon name="book-open" color="info" size="lg"/>
-    <box flex="1" gap={0}>
-      **Cryptography**
-      <caption>Encryption & Key Exchange</caption>
-    </box>
-    <badge color="info">Learning</badge>
-  </row>
-  <row align="center" gap={2}>
-    <icon name="search" color="info" size="lg"/>
-    <box flex="1" gap={0}>
-      **Vulnerability Analysis**
-      <caption>Finding & Testing Vulnerabilities</caption>
-    </box>
-    <badge color="info">Learning</badge>
-  </row>
-  <row align="center" gap={2}>
-    <icon name="network" color="info" size="lg"/>
-    <box flex="1" gap={0}>
-      **Computer Network Security**
-      <caption>Network Protection & Monitoring</caption>
-    </box>
-    <badge color="info">Learning</badge>
-  </row>
-  <divider color="subtle"/>
-  <row align="center" gap={2}>
-    <icon name="terminal" color="secondary" size="lg"/>
-    <box flex="1" gap={0}>
-      **Linux & System Hardening**
-      <caption>System Administration & Protection</caption>
-    </box>
-    <badge>Exploring</badge>
-  </row>
-  <row align="center" gap={2}>
-    <icon name="shield-check" color="secondary" size="lg"/>
-    <box flex="1" gap={0}>
-      **Penetration Testing**
-      <caption>Security Assessment & Practical Labs</caption>
-    </box>
-    <badge>Future Goal</badge>
-  </row>
-</box>
+<table>
+<tr>
+<td colspan="2">
+
+### 🛡️ System Security Journey
+
+<img src="https://img.shields.io/badge/IN%20PROGRESS-1f6feb?style=for-the-badge"/>
+
+</td>
+</tr>
+<tr>
+<td width="75%">
+
+**✅ Information Theory & Coding**
+
+<sub>Completed</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/DONE-238636?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🔐 Cryptography**
+
+<sub>Encryption & Key Exchange</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🔍 Vulnerability Analysis**
+
+<sub>Finding & Testing Vulnerabilities</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🌐 Computer Network Security**
+
+<sub>Network Protection & Monitoring</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/LEARNING-1f6feb?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🐧 Linux & System Hardening**
+
+<sub>System Administration & Protection</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/EXPLORING-6e7681?style=flat-square"/>
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🛡️ Penetration Testing**
+
+<sub>Security Assessment & Practical Labs</sub>
+
+</td>
+<td align="center">
+
+<img src="https://img.shields.io/badge/FUTURE%20GOAL-6e7681?style=flat-square"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
