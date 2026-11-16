@@ -26,30 +26,56 @@
 
 ### 👩🏻‍💻 Who Am I?
 
-🎓 Third-year student at **HUIT**
-
-🔐 Major: Information Security
-
-🛡️ Specialization: **System Security**
-
-📍 Ho Chi Minh City, Vietnam
-
-💡 Passionate about understanding systems, discovering vulnerabilities and improving system security.
+<table>
+<tr>
+<td>🎓</td>
+<td>Third-year student at <b>HUIT</b></td>
+</tr>
+<tr>
+<td>🔐</td>
+<td>Major: Information Security</td>
+</tr>
+<tr>
+<td>🛡️</td>
+<td>Specialization: <b>System Security</b></td>
+</tr>
+<tr>
+<td>📍</td>
+<td>Ho Chi Minh City, Vietnam</td>
+</tr>
+<tr>
+<td>💡</td>
+<td>Passionate about understanding systems, discovering vulnerabilities and improving system security.</td>
+</tr>
+</table>
 
 </td>
 <td width="45%" valign="top">
 
 ### 🎯 My Interests
 
-🐧 Linux & Operating System Security
-
-🔒 System Hardening
-
-🔍 Vulnerability Assessment
-
-🔑 Cryptography
-
-🌐 Network Security
+<table>
+<tr>
+<td>🐧</td>
+<td>Linux & Operating System Security</td>
+</tr>
+<tr>
+<td>🔒</td>
+<td>System Hardening</td>
+</tr>
+<tr>
+<td>🔍</td>
+<td>Vulnerability Assessment</td>
+</tr>
+<tr>
+<td>🔑</td>
+<td>Cryptography</td>
+</tr>
+<tr>
+<td>🌐</td>
+<td>Network Security</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -62,8 +88,8 @@
 <table>
 <thead>
 <tr>
-<th align="left">📚 Subject</th>
-<th align="center">📌 Status</th>
+<th align="left" width="75%">📚 Subject</th>
+<th align="center" width="25%">📌 Status</th>
 </tr>
 </thead>
 <tbody>
@@ -85,6 +111,18 @@
 </tr>
 </tbody>
 </table>
+
+---
+
+## 📈 Cybersecurity Learning Map
+
+<div align="center">
+
+<img src="https://quickchart.io/chart?width=600&height=340&backgroundColor=transparent&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Cryptography%22%2C%22Vulnerability%20Analysis%22%2C%22Network%20Security%22%2C%22Linux%20%26%20System%20Hardening%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B25%2C25%2C25%2C25%5D%2C%22backgroundColor%22%3A%5B%22%2358a6ff%22%2C%22%231f6feb%22%2C%22%2379c0ff%22%2C%22%233fb950%22%5D%2C%22borderColor%22%3A%22%230d1117%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22cutout%22%3A%2262%25%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22bottom%22%2C%22labels%22%3A%7B%22color%22%3A%22%23c9d1d9%22%2C%22padding%22%3A16%7D%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Current%20Learning%20Areas%22%2C%22color%22%3A%22%23c9d1d9%22%7D%7D%7D%7D" width="90%" alt="Cybersecurity Learning Areas Donut Chart"/>
+
+<sub>Exploring different areas of Information Security and System Security.</sub>
+
+</div>
 
 ---
 
